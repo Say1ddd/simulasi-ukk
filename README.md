@@ -1,4 +1,4 @@
-# SIMULASI UKK PKK - LSPP1
+# SIMULASI UKK PKK
 
 Project penilaian ujian praktek mata pelajaran PKK.
 
@@ -21,7 +21,7 @@ cd path/to/parent/directory
 Clone repository menggunakan perintah git
 
 ```bash
-git clone https://github.com/Say1ddd/pkk-lspp1.git
+git clone https://github.com/Say1ddd/simulasi-ukk.git
 ```
 
 Install package yang diperlukan
